@@ -1,4 +1,4 @@
-# Stipple Tile Styler (Version 1.0)
+# Stipple Tile Styler (Version 1.0.0)
 
 **Author:** MSG317  
 **Contact:** matt@msg317.com  
@@ -31,12 +31,12 @@ This script aims to simplify and speed up the stipple style creation process, re
 
 ## Installation
 
-1. Download the `StippleStyler.jsx` file (rename as needed).
+1. Download the `Stipple-Styler-V1-MSG317.jsx` file (rename as needed).
 2. Place the script into your Adobe Illustrator `Scripts` folder. Typically:
    - **macOS:** `/Applications/Adobe Illustrator [version]/Presets/en_US/Scripts/`
    - **Windows:** `C:\Program Files\Adobe\Adobe Illustrator [version]\Presets\en_US\Scripts\`
 3. Restart Adobe Illustrator if it’s running.
-4. Access the script via `File > Scripts > StippleStyler` in Illustrator.
+4. Access the script via `File > Scripts > Stipple-Styler-V1-MSG317` in Illustrator.
 
 ## Usage
 
@@ -54,7 +54,7 @@ This script aims to simplify and speed up the stipple style creation process, re
 
 ## License
 
-For now, Stipple Styler (V1) is provided as-is for personal or commercial projects. Consider sharing improvements!
+For now, Stipple Tile Styler (V1) is provided as-is for personal or commercial projects. Consider sharing improvements!
 
 ## Support & Feedback
 
