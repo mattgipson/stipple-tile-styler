@@ -1,4 +1,4 @@
-# Stipple Styler (Version 1.0)
+# Stipple Tile Styler (Version 1.0)
 
 **Author:** MSG317  
 **Contact:** matt@msg317.com  
