@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Stipple Styler** is an Adobe Illustrator ExtendScript that generates a stipple-style pattern tile with a range of customizable options. It streamlines the process of creating natural, organic dot (or pixel) patterns that are perfect for backgrounds, textures, shadows and artistic effects.
+This is a custom Adobe Illustrator ExtendScript that generates a stipple-style pattern tile with a range of customizable options. It streamlines the process of creating natural, organic dot (or pixel) patterns that are perfect for backgrounds, textures, shadows and artistic effects.
 
 Users can easily set the tile size, density, distribution mode (uniform or gradient), dot size mode (uniform or variable), shape type (dots or squares), and color options (black, white, custom hex, or pick from a selected object in the document). The gradient mode creates a bottom-heavy look that emulates a smooth black-to-white gradient, while the uniform mode allows for consistent spacing and randomized sizes for a more even distribution.
 
@@ -54,6 +54,10 @@ This script aims to simplify and speed up the stipple style creation process, re
 ## License
 
 For now, Stipple Tile Styler (V1) is provided as-is for personal or commercial projects. Consider sharing improvements!
+
+## Roadmap
+
+TBD (there are a handful of improvements I would like to make)
 
 ## Support & Feedback
 
