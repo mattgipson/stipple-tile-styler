@@ -1,5 +1,4 @@
-# Stipple Tile Styler (Version 1.0.0)
-
+# Stipple Tile Styler - An ExtendScript Adobe Illustrator 
 **Author:** MSG317  
 **Contact:** matt@msg317.com  
 **Website:** [https://www.msg317com](https://www.msg317.com)  
