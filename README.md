@@ -66,6 +66,12 @@ For questions, suggestions, or support:
 
 Your feedback helps shape future improvements and features.
 
+## Tip the Maker
+
+If this helped make your creative journey a bit smoother, consider leaving a tip! A small contribution through PayPal goes a long way in supporting the creation of digital tools for artists everywhere.
+
+[https://www.paypal.com/ncp/payment/62CYFJ84UPZYA](https://www.paypal.com/ncp/payment/62CYFJ84UPZYA)
+
 ---
 
 © 2024 MSG317. All rights reserved.
