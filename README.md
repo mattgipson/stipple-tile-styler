@@ -1,4 +1,4 @@
-# Stipple Tile Styler - An ExtendScript Adobe Illustrator 
+# Stipple Tile Styler - An ExtendScript for Adobe Illustrator 
 **Author:** MSG317 (Matt Gipson)  
 **Contact:** matt@msg317.com  
 **Website:** [https://www.msg317com](https://www.msg317.com)  
